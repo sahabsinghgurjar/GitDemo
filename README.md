@@ -1,3 +1,4 @@
 # GitDemo
 commit1
-commit 7
+cmmit7
+commit2
